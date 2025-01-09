@@ -49,6 +49,7 @@ The NEAT configuration file (`neat-config.txt`) allows customization of the algo
 
 ## Results
 As the training progresses, the AI agent improves its gameplay, achieving higher scores by learning to navigate the obstacles effectively. The evolution of the neural networks is visualized, showing the progression of learning over generations. 📈
+<img src="https://github.com/bluekitsune-sad/Neat-Algorithm-/blob/main/flappyStillWasContinueing.PNG"/>
 
 ## Future Enhancements
 - **Hyperparameter Tuning:** Further optimize NEAT parameters for faster convergence. ⚡
