@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/neat-flappy-bird.git
+   git clone https://github.com/bluekitsune-sad/Neat-Algorithm-.git
    cd neat-flappy-bird
    ```
 
