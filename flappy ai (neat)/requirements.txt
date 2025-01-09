@@ -3,3 +3,5 @@ pygame
 neat-python
 graphviz
 matplotlib
+
+pip i numpy pygame neat-python graphviz matplotlib
